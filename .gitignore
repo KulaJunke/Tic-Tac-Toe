@@ -1,0 +1,6 @@
+# Ignoring IDEA default project files
+.idea/
+*.iml
+
+# Ignoring output paths
+out/
